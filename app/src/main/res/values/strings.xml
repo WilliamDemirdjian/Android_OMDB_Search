@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pixture</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="exemple_title">Blade Runner 2049</string>
+    <string name="exemple_plot">A young blade runner\'s discovery of a long-buried secret leads him to track down former blade runner Rick Deckard, who\'s been missing for thirty years.</string>
+</resources>
